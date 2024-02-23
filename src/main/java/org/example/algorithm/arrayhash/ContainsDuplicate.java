@@ -1,6 +1,5 @@
 package org.example.algorithm.arrayhash;
 
-import java.util.Arrays;
 import java.util.HashSet;
 
 public class ContainsDuplicate {
