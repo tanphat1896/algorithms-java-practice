@@ -13,4 +13,6 @@
 
 ## Two pointers
 
-1. [ValidPalindromeTest.java](src%2Ftest%2Fjava%2Forg%2Fexample%2Falgorithm%2Ftwopointer%2FValidPalindromeTest.java)
+1. [ValidPalindrome](src%2Ftest%2Fjava%2Forg%2Fexample%2Falgorithm%2Ftwopointer%2FValidPalindromeTest.java)
+2. [TwoSumArraySorted](src%2Ftest%2Fjava%2Forg%2Fexample%2Falgorithm%2Ftwopointer%2FTwoSumArraySortedTest.java)
+3. [ContainerWithMostWater](src%2Ftest%2Fjava%2Forg%2Fexample%2Falgorithm%2Ftwopointer%2FContainerWithMostWaterTest.java)
