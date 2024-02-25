@@ -16,3 +16,8 @@
 1. [ValidPalindrome](src%2Ftest%2Fjava%2Forg%2Fexample%2Falgorithm%2Ftwopointer%2FValidPalindromeTest.java)
 2. [TwoSumArraySorted](src%2Ftest%2Fjava%2Forg%2Fexample%2Falgorithm%2Ftwopointer%2FTwoSumArraySortedTest.java)
 3. [ContainerWithMostWater](src%2Ftest%2Fjava%2Forg%2Fexample%2Falgorithm%2Ftwopointer%2FContainerWithMostWaterTest.java)
+
+## Stack
+
+1. [ValidParentheses](src%2Ftest%2Fjava%2Forg%2Fexample%2Falgorithm%2Fstack%2FValidParenthesesTest.java)
+2. [MinStack](src%2Ftest%2Fjava%2Forg%2Fexample%2Fdatastructure%2FMinStackTest.java)
