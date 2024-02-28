@@ -10,6 +10,8 @@
 ## Tree
 
 1. [InvertBinaryTree](src%2Ftest%2Fjava%2Forg%2Fexample%2Falgorithm%2Ftree%2FInvertBinaryTreeTest.java)
+2. [SameTree](src%2Ftest%2Fjava%2Forg%2Fexample%2Falgorithm%2Ftree%2FSameTreeTest.java)
+3. [SubTree](src%2Ftest%2Fjava%2Forg%2Fexample%2Falgorithm%2Ftree%2FSubTreeTest.java)
 
 ## Two pointers
 

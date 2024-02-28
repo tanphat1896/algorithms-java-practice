@@ -24,7 +24,7 @@ public class TreeNode {
     }
 
     private static TreeNode from(int[] vals, int idx) {
-        if (idx >= vals.length) {
+        if (idx >= vals.length || vals[idx] == -1) {
             return null;
         }
         return new TreeNode(
