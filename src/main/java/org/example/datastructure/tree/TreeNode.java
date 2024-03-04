@@ -34,6 +34,21 @@ public class TreeNode {
         );
     }
 
+    public static TreeNode from(Integer[] vals) {
+        return from(vals, 0);
+    }
+
+    private static TreeNode from(Integer[] vals, int idx) {
+        if (idx >= vals.length || vals[idx] == null) {
+            return null;
+        }
+        return new TreeNode(
+            vals[idx],
+            from(vals, idx * 2 + 1),
+            from(vals, idx * 2 + 2)
+        );
+    }
+
     @Override
     public String toString() {
         return "TreeNode{" +
