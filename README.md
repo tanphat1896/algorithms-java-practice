@@ -27,3 +27,8 @@
 
 1. [ValidParentheses](src%2Ftest%2Fjava%2Forg%2Fexample%2Falgorithm%2Fstack%2FValidParenthesesTest.java)
 2. [MinStack](src%2Ftest%2Fjava%2Forg%2Fexample%2Fdatastructure%2FMinStackTest.java)
+3. [EvaluateReversePolishNotation](src%2Ftest%2Fjava%2Forg%2Fexample%2Falgorithm%2Fstack%2FEvaluateReversePolishNotationTest.java)
+
+## List
+
+1. [ReverseLinkedList](src%2Ftest%2Fjava%2Forg%2Fexample%2Falgorithm%2Flist%2FReverseLinkedListTest.java)
