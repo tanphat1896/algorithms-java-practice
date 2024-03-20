@@ -16,6 +16,8 @@
 5. [BinTreeMaxDepth](src%2Ftest%2Fjava%2Forg%2Fexample%2Falgorithm%2Ftree%2FBinTreeMaxDepthTest.java)
 6. [BalancedBinTree](src%2Ftest%2Fjava%2Forg%2Fexample%2Falgorithm%2Ftree%2FBalancedBinTreeTest.java)
 7. [BinTreeLevelOrderTraversal](src%2Ftest%2Fjava%2Forg%2Fexample%2Falgorithm%2Ftree%2FBinTreeLevelOrderTraversalTest.java)
+8. [KthSmallestInBST](src%2Ftest%2Fjava%2Forg%2Fexample%2Falgorithm%2Ftree%2FKthSmallestInBSTTest.java)
+9. [ValidateBST](src%2Ftest%2Fjava%2Forg%2Fexample%2Falgorithm%2Ftree%2FValidateBSTTest.java)
 
 ## Two pointers
 
