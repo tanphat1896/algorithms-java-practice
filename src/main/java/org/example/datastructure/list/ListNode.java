@@ -20,6 +20,25 @@ public class ListNode {
         return from(vals, 0);
     }
 
+    public static ListNode makeCycleList(int[] vals, int cycleIdx) {
+        var head = from(vals, 0);
+        ListNode current = head, cycleNode = null, tail = null;
+        for (int i = 0; current != null; current = current.next, i++) {
+            if (cycleIdx == i) {
+                cycleNode = current;
+            }
+            if (current.next == null) {
+                tail = current;
+            }
+        }
+
+        if (tail != null) {
+            tail.next = cycleNode;
+        }
+
+        return head;
+    }
+
     private static ListNode from(int[] vals, int idx) {
         if (idx >= vals.length) {
             return null;
