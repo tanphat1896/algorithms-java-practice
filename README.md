@@ -18,6 +18,9 @@
 7. [BinTreeLevelOrderTraversal](src%2Ftest%2Fjava%2Forg%2Fexample%2Falgorithm%2Ftree%2FBinTreeLevelOrderTraversalTest.java)
 8. [KthSmallestInBST](src%2Ftest%2Fjava%2Forg%2Fexample%2Falgorithm%2Ftree%2FKthSmallestInBSTTest.java)
 9. [ValidateBST](src%2Ftest%2Fjava%2Forg%2Fexample%2Falgorithm%2Ftree%2FValidateBSTTest.java)
+10. [NumberOfGoodNodes](src/test/java/org/example/algorithm/tree/NumberOfGoodNodesTest.java)
+11. [BinaryRightSideview](src/test/java/org/example/algorithm/tree/BinTreeRightSideViewTest.java)
+12. [LowestCommonAncestor](src/test/java/org/example/algorithm/tree/LCABSTTest.java)
 
 ## Two pointers
 
