@@ -7,6 +7,9 @@
 3. [ValidAnagram](src%2Ftest%2Fjava%2Forg%2Fexample%2Falgorithm%2Farrayhash%2FValidAnagramTest.java)
 4. [GroupAnagrams](src%2Ftest%2Fjava%2Forg%2Fexample%2Falgorithm%2Farrayhash%2FGroupAnagramsTest.java)
 
+## Bit
+1. [SingleNumber](src/test/java/org/example/algorithm/bit/SingleNumberTest.java)
+
 ## Tree
 
 1. [InvertBinaryTree](src%2Ftest%2Fjava%2Forg%2Fexample%2Falgorithm%2Ftree%2FInvertBinaryTreeTest.java)
@@ -40,3 +43,4 @@
 2. [MergeTwoSortedList](src%2Ftest%2Fjava%2Forg%2Fexample%2Falgorithm%2Flist%2FMergeTwoSortedListTest.java)
 3. [LinkedListCycle](src/test/java/org/example/algorithm/list/LinkedListCycleTest.java)
 4. [LinkedListCycleII](src/test/java/org/example/algorithm/list/LinkedListCycleIITest.java)
+5. [RemoveNthFromEnd](src/test/java/org/example/algorithm/list/RemoveNthFromEndTest.java)
