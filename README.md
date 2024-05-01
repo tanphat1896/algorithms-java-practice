@@ -24,6 +24,7 @@
 10. [NumberOfGoodNodes](src/test/java/org/example/algorithm/tree/NumberOfGoodNodesTest.java)
 11. [BinaryRightSideview](src/test/java/org/example/algorithm/tree/BinTreeRightSideViewTest.java)
 12. [LowestCommonAncestor](src/test/java/org/example/algorithm/tree/LCABSTTest.java)
+13. [ConstructBinTree](src/test/java/org/example/algorithm/tree/ConstructBinTreeTest.java)
 
 ## Two pointers
 
