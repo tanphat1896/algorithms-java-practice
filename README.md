@@ -30,6 +30,7 @@
 1. [ValidPalindrome](src%2Ftest%2Fjava%2Forg%2Fexample%2Falgorithm%2Ftwopointer%2FValidPalindromeTest.java)
 2. [TwoSumArraySorted](src%2Ftest%2Fjava%2Forg%2Fexample%2Falgorithm%2Ftwopointer%2FTwoSumArraySortedTest.java)
 3. [ContainerWithMostWater](src%2Ftest%2Fjava%2Forg%2Fexample%2Falgorithm%2Ftwopointer%2FContainerWithMostWaterTest.java)
+4. [Triplet (3Sum)](src/test/java/org/example/algorithm/twopointer/TripletTest.java)
 
 ## Stack
 
